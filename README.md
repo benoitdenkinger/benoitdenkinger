@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="center">
   <a href="https://github.com/benoitdenkinger">
   <img height="180em" src="https://github-readme-stats-peach-five-40.vercel.app/api?username=benoitdenkinger&show_icons=true&theme=dracula"/>
