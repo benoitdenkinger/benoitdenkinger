@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/benoitdenkinger">
   <img height="180em" src="https://github-readme-stats-peach-five-40.vercel.app/api?username=benoitdenkinger&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-peach-five-40.vercel.app/api/top-langs/?username=benoitdenkinger&layout=compact&langs_count=7&role=OWNER,ORGANIZATION_MEMBER&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-peach-five-40.vercel.app/api/top-langs/?username=benoitdenkinger&layout=compact&langs_count=7&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=dracula"/>
 </div>
