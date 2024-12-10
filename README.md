@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Benoît Denkinger
 
+I'm a hardware digital designer as my 'Most used Languages' statistics are clearly not showing 🤔
+
 <!--
 **benoitdenkinger/benoitdenkinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
