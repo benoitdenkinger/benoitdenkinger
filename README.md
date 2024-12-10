@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/benoitdenkinger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benoitdenkinger&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benoitdenkinger&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="180em" src="https://github.com/benoitdenkinger/github-readme-stats/api?username=benoitdenkinger&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github.com/benoitdenkinger/github-readme-stats/api/top-langs/?username=benoitdenkinger&layout=compact&langs_count=5&theme=dracula"/>
 </div>
