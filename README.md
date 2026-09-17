@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/benoitdenkinger">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=benoitdenkinger&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=benoitdenkinger&layout=compact&langs_count=7&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=benoitdenkinger&layout=compact&langs_count=5&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
